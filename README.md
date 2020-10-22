@@ -1,7 +1,6 @@
-# tesla_website
 
 ## Used Bootstrap Studio.
 
-### HTML
-### CSS
-### JS
+#### HTML
+#### CSS
+#### JS
